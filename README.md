@@ -1,7 +1,7 @@
 # auth-api
 ### Heroku applications
 
-[server-deploy-main]()
+[server-deploy-main](https://ibrahimawad-auth-api.herokuapp.com)
 
 ### Github actions
 
